@@ -1,10 +1,18 @@
-## Hi there 👋
+<div align="center">I'm a mechanic⭐🤖</div>
+<br/>
+<div align="right">And maybe full-stack developer</div>
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=133067363976352190" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
+
+
+
+
+
+
+
+
+
 
 <!--
-**ideaspace785/ideaspace785** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
