@@ -1,7 +1,8 @@
 <div align="center">I'm a mechanic⭐🤖</div>
 <br/>
-<div align="right">And maybe full-stack developer</div>
-<img src="다운로드.gif"/>
+<div align="center">...and maybe full-stack developer</div>
+<br/><br/>
+<img src="https://media1.tenor.com/m/B-FTHsp-V20AAAAC/bh187-secret-life-of-pets.gif" height="500"/>
 
 
 
