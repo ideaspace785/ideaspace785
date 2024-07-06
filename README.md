@@ -6,16 +6,6 @@
   <img src="https://media1.tenor.com/m/B-FTHsp-V20AAAAC/bh187-secret-life-of-pets.gif" align="center" height="350" />
 </div>
 
-
-
-
-
-
-
-
-
-
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
