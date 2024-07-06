@@ -2,7 +2,10 @@
 <br/>
 <div align="center">...and maybe full-stack developer</div>
 <br/><br/>
-<img src="https://media1.tenor.com/m/B-FTHsp-V20AAAAC/bh187-secret-life-of-pets.gif" height="500"/>
+<div align="center">
+  <img src="https://media1.tenor.com/m/B-FTHsp-V20AAAAC/bh187-secret-life-of-pets.gif" align="center" height="350" />
+</div>
+
 
 
 
