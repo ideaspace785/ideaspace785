@@ -1,7 +1,7 @@
 <div align="center">I'm a mechanic⭐🤖</div>
 <br/>
 <div align="right">And maybe full-stack developer</div>
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=133067363976352190" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
+<img src="다운로드.gif"/>
 
 
 
